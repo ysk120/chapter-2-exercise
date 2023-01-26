@@ -1,7 +1,7 @@
-[build-systems]
+[build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "primes"
+name = "my_package"
 version = "0.1"
